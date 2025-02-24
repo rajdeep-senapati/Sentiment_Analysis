@@ -1,2 +1,2 @@
-# Sentiment_Analysis
-An simple Sentiment Analysis Project
+# Sentiment Analysis
+A simple Sentiment Analysis Project for learning the basics of NLP
